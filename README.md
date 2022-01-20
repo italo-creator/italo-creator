@@ -1,7 +1,7 @@
 <footer align="center">
   <p align="center">
     Olá, Eu sou o Ítalo Andrade ✋<br>
-   🔭 Trabalho como Gestor de tráfego para negocios locais e e-commerces.<br>
+   🔭 Analista de dados.<br>
    🌱 Atualmente estudando Estrutura de Dados, Banco de Dados e Gerenciamento de Projetos.<br>
    🎓 Cursando Data Science.<br>
      </p>
