@@ -4,7 +4,7 @@
 
 <br>       
 🌱 Atualmente estudando Engenharia de Dados, Machine Learning e Gerenciamento de Projetos.<br>
-🎓 Cursando Data Science.<br>
+🎓 Cursando CST em Data Science pela UNINASSAU.<br>
 
 <br><h1></h1>
 
