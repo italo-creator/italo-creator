@@ -3,7 +3,7 @@
 **Olá, Eu sou o Ítalo** ✋
 
 <br>       
-🌱 Atualmente estudando Engenharia de Dados, Machine Learning e Gerenciamento de Projetos.<br>
+🌱 Atualmente trabalho como Engenheiro de Dados na compass.uol <br>
 🎓 Graduando CST em Data Science pela UNINASSAU.<br>
 
 <br><h1></h1>
