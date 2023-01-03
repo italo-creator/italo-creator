@@ -4,7 +4,7 @@
 
 <br>       
 🌱 Atualmente trabalho como Engenheiro de Dados na compass.uol <br>
-🎓 Graduando CST em Data Science pela UNINASSAU.<br>
+🎓 Graduado em Ciência de dados pela UNINASSAU.<br>
 
 <br><h1></h1>
 
